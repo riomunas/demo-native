@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:dev.aadf.demonative.DemoNativeApplicationTests]/[method:contextLoads()]
